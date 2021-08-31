@@ -12,7 +12,6 @@ To install Hector SLAM:
 ```
 cd ~/catkin_ws/src
 git clone https://github.com/tu-darmstadt-ros-pkg/hector_slam
-
 ```
 
 To install RealSense D435i drivers and packages: https://github.com/IntelRealSense/realsense-ros
