@@ -1,0 +1,8 @@
+<launch>
+  <node
+    pkg="hog_detector"
+    type="hog_detector.py"
+    name="hog_detector"
+    output="screen"
+  />
+</launch>
